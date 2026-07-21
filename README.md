@@ -16,10 +16,12 @@ Desafio DIO de desenvolver um NotebookLM com fontes abertas sobre assuntos finan
 - A primeira geração dos tópicos acabou sendo muito curta, apenas 4 assuntos, criei um prompt para que o NotebookLM gerasse mais tópicos, resultando em 6, o que eu achei suficiente para um assunto introdutório.
 - Com um prompt eu perguntei das capacidades de gerar Slides para estudos, para que cada tópico tivesse um Slide único, para concentração de informação apropriada. Depois que ele gerou o primeiro slide, pedi uma suavizada na arte dos slides, pois era muito forte, distraindo do conteúdo.
 - Por fim pedi para que ele gerasse um Glossário e 3 quizes sobre cada um dos tópicos com dificuldades variantes, para realmente testar os conhecimentos gerados pelo Notebook.
+- Cada Quiz também foi necessário um prompt único, para que cada tópico pudesse ser investigado e o conhecimento testado devidamente.
+
 
 ## Prompts Reutilizáveis:
 ```Por favor expanda sobre o Tópico (x)```
-```Gere mais um quiz de dificuldade (Iniciante/Média/Alta) sobre Tópico (x)```
+```Gere mais um quiz de dificuldade (Básico/Intermediário/Avançado) sobre Tópico (x)```
 
 
 ## Link do NotebookLM
