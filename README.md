@@ -20,3 +20,7 @@ Desafio DIO de desenvolver um NotebookLM com fontes abertas sobre assuntos finan
 ## Prompts Reutilizáveis:
 ```Por favor expanda sobre o Tópico (x)```
 ```Gere mais um quiz de dificuldade (Iniciante/Média/Alta) sobre Tópico (x)```
+
+
+## Link do NotebookLM
+[Intro-Econ-Notebook](https://notebooklm.google.com/notebook/618e50ba-017d-4800-a941-2eb0d0e9cb45)
